@@ -60,16 +60,23 @@ Follow the link and test the app. Ctrl+C to kill.
 railway up
 ```
 
-Hmmm... Times out instantly.
+The assigned `*.up.railway.app` domain times out instantly: <https://feedback.railway.app/bug-reports/p/websocket-issue>
 
-Use Shiny Server?
+Custom domain is supposed to work <https://docs.railway.app/deployment/custom-domains>
 
-Railway + websocket?
+**Step 7.** Custom domain
+
+1. Select the environment and enter your domain name
+2. Add the `CNAME` record to the DNS settings for your domain
+3. Wait for Railway to verify your `CNAME` record
+
+Once a custom domain has been correctly configured, Railway will automatically generate and apply a Let's Encrypt certificate.
+
+This is still failing...
 
 ## Todo
 
 - See how to link to GitHub
-- Set up custom domains
 - Pricing info
 
 > #### Starter Plan Project Limits
@@ -77,5 +84,3 @@ Railway + websocket?
 > Stater plans are designed to help you evaluate Railway and are fit for hobbyist projects. You get access to all features on Railway and you have no limits to the amount of projects you can provision.
 >
 > Starter plans get $5 of credits that do not accumulate.
-
-
