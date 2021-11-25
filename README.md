@@ -72,8 +72,6 @@ Custom domain is supposed to work <https://docs.railway.app/deployment/custom-do
 
 Once a custom domain has been correctly configured, Railway will automatically generate and apply a Let's Encrypt certificate.
 
-This is still failing...
-
 ## Todo
 
 - See how to link to GitHub
