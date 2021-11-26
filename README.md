@@ -1,6 +1,6 @@
 # Deploy Shiny Apps to Railway.app
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fanalythium%2Frailway-shiny&referralCode=ItV1BC)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fanalythium%2Frailway-shiny%2Ftree%2Fmain&referralCode=ItV1BC)
 
 ## What is Railway
 
