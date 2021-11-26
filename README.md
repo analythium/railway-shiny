@@ -1,5 +1,7 @@
 # Deploy Shiny Apps to Railway.app
 
+Clone and deploy this template on Railway:
+
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fanalythium%2Frailway-shiny%2Ftree%2Fmaster%2Fstarter&referralCode=ItV1BC)
 
 
