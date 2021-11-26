@@ -1,5 +1,7 @@
 # Deploy Shiny Apps to Railway.app
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fanalythium%2Frailway-shiny&referralCode=ItV1BC)
+
 ## What is Railway
 
 > Infrastructure, Instantly
@@ -71,11 +73,6 @@ Custom domain is supposed to work <https://docs.railway.app/deployment/custom-do
 3. Wait for Railway to verify your `CNAME` record
 
 Once a custom domain has been correctly configured, Railway will automatically generate and apply a Let's Encrypt certificate.
-
-## Todo
-
-- See how to link to GitHub
-- Pricing info
 
 > #### Starter Plan Project Limits
 >
