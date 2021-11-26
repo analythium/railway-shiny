@@ -1,6 +1,7 @@
 # Deploy Shiny Apps to Railway.app
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fanalythium%2Frailway-shiny%2Ftree%2Fmain&referralCode=ItV1BC)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fanalythium%2Frailway-shiny%2Ftree%2Fmaster%2Fstarter&referralCode=ItV1BC)
+
 
 ## What is Railway
 
@@ -12,7 +13,7 @@
 
 ## Setup
 
-Following the Railway.io docs: <https://docs.railway.app/>
+Following the Railway.io docs: <https://docs.railway.app/>. Inside this project, `cd starter`.
 
 **Step 1.** Install `railway` CLI <https://docs.railway.app/cli/installation>
 
